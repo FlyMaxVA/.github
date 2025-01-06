@@ -1,5 +1,5 @@
 
-![FlyMax Virtual Airlines]([http://url/to/img.png](https://voeflymax.com/wp-content/uploads/2024/08/Logo-FlyMax-Grande-2048x546.png))
+![FlyMax Virtual Airlines](http://url/to/img.png](https://voeflymax.com/wp-content/uploads/2024/08/Logo-FlyMax-Grande-2048x546.png)
 
 # FlyMax Virtual Airlines
 
