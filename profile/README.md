@@ -33,8 +33,9 @@ To access the private repository, you must:
 
 To request access, contact the staff team via the following emails:
 
-- **Main Contact**: [jdmapas@gmail.com](mailto:jdmapas@gmail.com)
-- **Additional Staff**: suporte@voeflymax.com
+
+- **FlyMax Support Staff**: [suporte@voeflymax.com](mailto:suporte@voeflymax.com)
+
 
 **Important**: Requests without proof of registration or flight hours will not be processed.
 
@@ -62,13 +63,10 @@ Follow us on social media:
 - Facebook: [FlyMax Virtual Airlines](https://www.facebook.com/flymaxva)
 - Twitter: [@flymaxva](https://www.twitter.com/flymaxva)
 
----
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ---
+
+
 
 ---
 
@@ -107,8 +105,7 @@ Para ter acesso ao repositório privado, é necessário:
 
 Para solicitar acesso, entre em contato com a equipe de staff através dos seguintes e-mails:
 
-- **Principal**: [jdmapas@gmail.com](mailto:jdmapas@gmail.com)
-- **Staff Adicional**: suporte@voeflymax.com
+- **FlyMax Equipe de Suporte**: [suporte@voeflymax.com](mailto:suporte@voeflymax.com)
 
 **Importante**: Solicitações sem comprovação de cadastro ou horas de voo não serão processadas.
 
