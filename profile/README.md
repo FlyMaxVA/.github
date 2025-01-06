@@ -1,7 +1,6 @@
 
 ![FlyMax Virtual Airlines](https://voeflymax.com/wp-content/uploads/2024/08/Logo-FlyMax-Grande-2048x546.png)
 
-# FlyMax Virtual Airlines
 
 Welcome to the official repository of FlyMax Virtual Airlines (FlyMax VA). This repository contains the source code for internal tools and utilities developed to enhance the experience of our virtual pilots.
 
